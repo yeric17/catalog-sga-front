@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-size: var(--font-size-md);
+}
+input,textarea,body {
+    font-family: "Inter";
+    font-weight: 400;
+    color: var(--color-gray-2);
+}
