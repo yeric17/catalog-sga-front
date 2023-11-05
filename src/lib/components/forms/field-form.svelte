@@ -3,7 +3,7 @@
     export let type = 'text'
     export let full:boolean = false
 
-    let value = ''
+    export let value = ''
     function HandlerInput(event:Event){
 
         if(!(event.target instanceof HTMLInputElement)) return

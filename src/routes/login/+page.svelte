@@ -12,6 +12,7 @@
             <div class="fields-group">
                 <FieldForm>Email</FieldForm>
                 <FieldForm type='password'>Contraseña</FieldForm>
+                <a href="/account/forgot-pass">¿Olvido la contraseña?</a>
             </div>
             <div class="form-buttons">
                 <Button style="primary" full>Login</Button>
